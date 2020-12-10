@@ -1,0 +1,69 @@
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 8:19 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X817K9ZV.tmp - December 1, 2020, 8:19 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X817K9ZV.tmp - December 1, 2020, 8:19 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 8:20 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 8:30 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X817YUTT.tmp - December 1, 2020, 8:30 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X817YUTT.tmp - December 1, 2020, 8:30 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 8:34 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X81836N5.tmp - December 1, 2020, 8:34 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X81836N5.tmp - December 1, 2020, 8:34 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 178.192.20.153 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X80P9UU4.tmp - December 1, 2020, 8:35 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 178.192.20.153 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X80P9UU4.tmp - December 1, 2020, 8:35 pm
+data: "\/home\/clients\/ecf11996d9d4ad84eeead844d2dbf2d9\/sites\/winbiz.cdf-emballage.ch\/public\/admin\/import_categories.txt"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 8:46 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5X818IVAF.tmp - December 1, 2020, 8:46 pm
+data: true
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 8:56 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 178.192.20.153 - / - December 1, 2020, 8:57 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 178.192.20.153 - / - December 1, 2020, 9:12 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 9:17 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 1, 2020, 9:18 pm
+data: "#SUCCESS# 1"
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 9:36 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 10:17 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 10:54 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 1, 2020, 11:30 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------

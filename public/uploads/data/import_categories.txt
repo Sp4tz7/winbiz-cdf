@@ -1,0 +1,4 @@
+2;0;0;Sachets à fermeture rapide en PE;;;;;;FR;DE;IT;EN;;;Box standards de qualité en carton ondulé brun simple cannelure.;Druckverschlussbeutel LDPE 50my, Transparent;;;
+4;0;0;Caisses et boîtes en carton;Kartonschachteln;;;;;FR;DE;IT;EN;;;;;;;
+5;4;0;Cartons simple cannelure;;;;;;FR;DE;IT;EN;;;Box standards de qualité en carton ondulé brun simple cannelure. Idéal pour emballer, protéger et expédier tous vos produits légers.;;;;
+6;4;0;Carton double cannelures;;;;;;FR;DE;IT;EN;;;;;;;

@@ -1,0 +1,126 @@
+info: 10.4.39.75 - / - December 9, 2020, 12:11 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 12:44 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 1:24 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 2:00 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 2:32 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 3:05 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 3:38 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 4:10 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 4:53 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 5:25 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 5:59 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 6:33 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 7:07 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 7:41 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 8:15 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 8:47 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 9:21 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 9:54 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 10:28 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 11:02 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 11:37 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 12:11 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 12:44 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 1:17 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 1:49 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 2:25 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 2:59 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 3:39 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 4:19 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 4:53 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 5:27 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 6:00 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 6:33 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 7:09 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 7:42 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 8:15 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 8:48 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 9:23 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 9:59 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 10:32 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 11:05 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 9, 2020, 11:38 pm
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------

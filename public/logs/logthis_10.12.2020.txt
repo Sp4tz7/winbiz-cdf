@@ -1,0 +1,105 @@
+info: 10.4.39.75 - / - December 10, 2020, 12:10 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 12:43 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 1:24 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 1:59 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 2:31 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 3:04 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 3:37 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 4:10 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 4:46 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 5:24 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 5:58 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 6:31 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 7:03 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 7:36 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 8:08 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 8:43 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 9:15 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 10.4.39.75 - / - December 10, 2020, 9:48 am
+data: ["#FAILURE# ACTION NOT PROVIDEN",[]]
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 9:55 am
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5XH0L9OUQ.tmp - December 10, 2020, 9:55 am
+data: "ImportCategory - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_manufacturers&file=_5XH0L9PW6.tmp - December 10, 2020, 9:55 am
+data: "ImportManufacturers - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LA4RM.tmp - December 10, 2020, 9:55 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LA5TY.tmp - December 10, 2020, 9:55 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LA707.tmp - December 10, 2020, 9:55 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 10:01 am
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_categories&file=_5XH0LHKPY.tmp - December 10, 2020, 10:01 am
+data: "ImportCategory - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_manufacturers&file=_5XH0LHLVP.tmp - December 10, 2020, 10:01 am
+data: "ImportManufacturers - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LHZ2A.tmp - December 10, 2020, 10:01 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LI00G.tmp - December 10, 2020, 10:01 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LI13U.tmp - December 10, 2020, 10:01 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=import_products&file=_5XH0LI26J.tmp - December 10, 2020, 10:01 am
+data: "ImportProduct - SUCCESS"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 10:02 am
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 10:02 am
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 10:02 am
+data: "#SUCCESS# 1"
+-------------------------
+info: 83.173.205.2 - /sasd_mtywnjgxnjy0meneribftujbtexbr0.php?action=get_script_version - December 10, 2020, 10:02 am
+data: "#SUCCESS# 1"
+-------------------------

@@ -1,0 +1,2 @@
+4;A-Fournitures - emballage;7.70;CH
+5;A-Cartons achat /vente;7.70;CH
